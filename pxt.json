@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "microphone": "*",
-        "pxt-finch": "github:birdbraintechnologies/pxt-finch#v0.0.5"
+        "pxt-finch": "github:birdbraintechnologies/pxt-finch#v0.0.5",
+        "datalogger": "*"
     },
     "files": [
         "main.ts"
